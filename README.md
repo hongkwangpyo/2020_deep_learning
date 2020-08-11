@@ -1,1 +1,1 @@
-# 2020_dip_learning
+# 2020_deep_learning
